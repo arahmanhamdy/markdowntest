@@ -1,5 +1,4 @@
 +++++++++++++
-name = "abdo"
 +++++++++++++
 
 #hello hello hello
